@@ -2,17 +2,17 @@
 
 namespace ManagerTwo.Service;
 
-public class MyCaller
+public class ManagerOne
 {
     private readonly IManagerOne _managerOne;
-    public MyCaller(IManagerOne managerOne)
+    public ManagerOne(IManagerOne managerOne)
     {
         _managerOne = managerOne;
     }
 
-    public async Task Call(int amount)
+    public async Task GetSomePeople(int amountOfPeople)
     {
-        var data = await _managerOne.GetPeople(amount);
+        var data = await _managerOne.GetPeople(amountOfPeople);
         foreach (var person in data)
         {
             Console.WriteLine($"{person.Name} - {person.Age} - {person.Email} - {person.DateOfBirth}");
