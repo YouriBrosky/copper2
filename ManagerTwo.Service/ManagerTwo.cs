@@ -2,10 +2,10 @@
 
 namespace ManagerTwo.Service;
 
-public class ManagerOne
+public class ManagerTwo
 {
     private readonly IManagerOne _managerOne;
-    public ManagerOne(IManagerOne managerOne)
+    public ManagerTwo(IManagerOne managerOne)
     {
         _managerOne = managerOne;
     }

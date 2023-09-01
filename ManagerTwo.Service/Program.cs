@@ -11,14 +11,14 @@ namespace ManagerTwo.Service
             var serviceProvider = new ServiceCollection()
                 .AddSingleton<HttpClient>()
                 .AddSingleton<IManagerOne>(sp => new HttpProxy(sp.GetRequiredService<HttpClient>()))
-                .AddSingleton<ManagerOne>()
+                .AddSingleton<ManagerTwo>()
                 .BuildServiceProvider();
 
             // Retrieve the MyClass instance from the DI container
-            var managerOne = serviceProvider.GetRequiredService<ManagerOne>();
+            var managerTwo = serviceProvider.GetRequiredService<ManagerTwo>();
 
             // Use the MyClass instance
-            await managerOne.GetSomePeople(5);
+            await managerTwo.GetSomePeople(5);
 
             Console.WriteLine("Done!");
         }
