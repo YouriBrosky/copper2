@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gj36gLiYVEOrPSEneui2J6mPA4OOUKVNVW789IEXA7biy9Pb6wgJE/ZsT7RKI8PahJ8j63tHnHB7O257GxyViA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\youri\\RiderProjects\\Solution1\\ManagerOne.Service\\ManagerOne.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\youri\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\youri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\youri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

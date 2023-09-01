@@ -1,0 +1,12 @@
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\bin\Debug\net7.0\ManagerOne.Interface.deps.json
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\bin\Debug\net7.0\ManagerOne.Interface.dll
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\bin\Debug\net7.0\ManagerOne.Interface.pdb
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.AssemblyInfoInputs.cache
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.AssemblyInfo.cs
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.csproj.CoreCompileInputs.cache
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.dll
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\refint\ManagerOne.Interface.dll
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.pdb
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ref\ManagerOne.Interface.dll
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.csproj.AssemblyReference.cache
