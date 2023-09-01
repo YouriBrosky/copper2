@@ -1,4 +1,5 @@
-Project Overview
+**Project Overview**
+
 This project consists of two separate components that communicate with each other via HTTP requests, while adhering to the principles of loose coupling and high cohesion. Each component implements a common interface, allowing them to interact without direct knowledge of each other's implementation.
 
 Key Features
