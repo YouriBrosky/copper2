@@ -13,3 +13,4 @@ C:\Users\youri\RiderProjects\Solution1\ManagerOne.Service\obj\Debug\net7.0\Manag
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Service\obj\Debug\net7.0\refint\ManagerOne.Service.dll
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Service\obj\Debug\net7.0\ManagerOne.Service.pdb
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Service\obj\Debug\net7.0\ref\ManagerOne.Service.dll
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Service\obj\Debug\net7.0\ManagerOne.Service.sourcelink.json

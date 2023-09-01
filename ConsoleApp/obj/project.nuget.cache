@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pooh+2u9jQxMF4aapYLLsIZhs6FYwjrh/anpCS44fpiwwWK3KDA7qedGwoJoalJ2GATezraMKHWMG89w1C8F1Q==",
+  "dgSpecHash": "sNglAMyxG4KIrCaXLsjr0V/7t5gVK8/GS8ugXbQfGX0HWhE7NJtiMwAcaxPjVEpOENRBa1YHroVmEAfxoUaI7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\youri\\RiderProjects\\Solution1\\ManagerTwo.Service\\ManagerTwo.Service.csproj",
+  "projectFilePath": "C:\\Users\\youri\\RiderProjects\\Solution1\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\youri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\youri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

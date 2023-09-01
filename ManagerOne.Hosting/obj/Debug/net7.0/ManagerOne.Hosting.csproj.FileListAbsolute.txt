@@ -36,3 +36,4 @@ C:\Users\youri\RiderProjects\Solution1\ManagerOne.Hosting\obj\Debug\net7.0\ref\M
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Hosting\bin\Debug\net7.0\ManagerOne.Service.dll
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Hosting\bin\Debug\net7.0\ManagerOne.Service.pdb
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Hosting\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Hosting\obj\Debug\net7.0\ManagerOne.Hosting.sourcelink.json

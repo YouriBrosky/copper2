@@ -1,11 +1,11 @@
 ﻿using ManagerOne.Interface;
 
-namespace ManagerTwo.Service;
+namespace ConsoleApp;
 
-public class ManagerTwo
+public class ConsoleApp
 {
     private readonly IManagerOne _managerOne;
-    public ManagerTwo(IManagerOne managerOne)
+    public ConsoleApp(IManagerOne managerOne)
     {
         _managerOne = managerOne;
     }

@@ -10,3 +10,4 @@ C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ref
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.pdb
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ref\ManagerOne.Interface.dll
 C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.csproj.AssemblyReference.cache
+C:\Users\youri\RiderProjects\Solution1\ManagerOne.Interface\obj\Debug\net7.0\ManagerOne.Interface.sourcelink.json

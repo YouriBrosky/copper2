@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ManagerOne", "ManagerOne", "{83612FF9-444C-4E4F-BD08-B40DECA244AB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ManagerTwo", "ManagerTwo", "{223602AE-EFDE-4AD4-AA1D-55224DD2C03E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{223602AE-EFDE-4AD4-AA1D-55224DD2C03E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerOne.Interface", "ManagerOne.Interface\ManagerOne.Interface.csproj", "{7ADB32A2-D8E5-486F-8F5C-EBD7FF50ED71}"
 EndProject
@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerOne.Service", "Manag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerOne.Hosting", "ManagerOne.Hosting\ManagerOne.Hosting.csproj", "{7192815F-7C25-421F-B603-2C5E238FF243}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerTwo.Service", "ManagerTwo.Service\ManagerTwo.Service.csproj", "{992A5DC9-1785-4B29-8D5E-E3FA734C81B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{992A5DC9-1785-4B29-8D5E-E3FA734C81B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

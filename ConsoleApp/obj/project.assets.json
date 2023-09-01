@@ -173,11 +173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\youri\\RiderProjects\\Solution1\\ManagerTwo.Service\\ManagerTwo.Service.csproj",
-      "projectName": "ManagerTwo.Service",
-      "projectPath": "C:\\Users\\youri\\RiderProjects\\Solution1\\ManagerTwo.Service\\ManagerTwo.Service.csproj",
+      "projectUniqueName": "C:\\Users\\youri\\RiderProjects\\Solution1\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\youri\\RiderProjects\\Solution1\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\youri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\youri\\RiderProjects\\Solution1\\ManagerTwo.Service\\obj\\",
+      "outputPath": "C:\\Users\\youri\\RiderProjects\\Solution1\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\youri\\AppData\\Roaming\\NuGet\\NuGet.Config",

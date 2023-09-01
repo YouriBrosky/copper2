@@ -6,7 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-        <RootNamespace>ManagerTwo</RootNamespace>
+        <RootNamespace>ConsoleApp</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

@@ -1,7 +1,7 @@
 ﻿using ManagerOne.Interface;
 using Newtonsoft.Json;
 
-namespace ManagerTwo.Service;
+namespace ConsoleApp;
 
 public class HttpProxy : IManagerOne
 {
